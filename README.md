@@ -1,2 +1,2 @@
-# projeto-joga-ai
-Repositório para projeto final, curso senai.
+# backend-senai
+Repositório para o projeto final dos alunos da turma de backend
